@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aplikasi Menu Makanan</string>
+    <string name="pecel_lele">
+        Nasi Putih, Lele Goreng 2 ekor, Sambal ijo, Lalapan
+    </string>
+    <string name="nasi_goreng_mercon">
+        Nasi Goreng, Telur, Ayam, Sayuran, Cabe 20
+    </string>
+    <string name="ayam_geprek_keju">
+        Nasi Putih, Ayam Geprek dengan taburan keju mozarella
+    </string>
+    <string name="kari_ayam">
+        Ayam Kari, kuah kuning
+    </string>
+    <string name="tahu_bulat">
+        Tahu bulat di goreng dadakan 500 an nyoi
+    </string>
+    <string name="salad_buah">
+        Sayuran sehat dalam 1 menu, mayonaise, saos tomat, keju, susu
+    </string>
+</resources>
